@@ -1,1 +1,1 @@
-gg
+var recipes = Object.assign({}, recipe)
